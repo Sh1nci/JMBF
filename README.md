@@ -1,2 +1,5 @@
 # JMBF
-Gunakan Script Ini Sebijak Mungkin 
+Script Ini Dibuat Oleh Dewa Ganteng
+
+
+# Run Script
